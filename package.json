@@ -1,0 +1,20 @@
+{
+  "name": "initial",
+  "version": "1.0.0",
+  "description": "initial phase js game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zorko",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.18.12",
+    "del": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-webserver": "^0.9.1"
+  },
+  "dependencies": {
+    "phaser": "^2.6.2"
+  }
+}

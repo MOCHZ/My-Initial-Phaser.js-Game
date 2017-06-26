@@ -1,0 +1,10 @@
+h1 {
+    font-family: 'Roboto', sans-serif;
+}
+h3, strong {
+    font-family: 'Bubbler One', sans-serif;
+}
+
+.row {
+    overflow: hidden;
+}
