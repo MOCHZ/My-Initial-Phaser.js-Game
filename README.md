@@ -2,16 +2,16 @@
 
 ## This project
 
-This project was created simply to test the[Phaser.js][1] game engine.
-All the character sprites were collected at[Spriters Resource][2], and belong to the creators of[Spelunky][3].The background 
-Music was created by[BoxCat Games][4], and sound effects were collected from[Freesound.org][5].
+This project was created simply to test the [Phaser.js][1] game engine.
+All the character sprites were collected at [Spriters Resource][2], and belong to the creators of [Spelunky][3].The background 
+Music was created by [BoxCat Games][4], and sound effects were collected from [Freesound.org][5].
 
-If you want to see the project in action rather than downloading/cloning/forking it, please visit the project[here][10] 
+If you want to see the project in action rather than downloading/cloning/forking it, please visit the project [here][10] 
 
 ## Requirements
 
-To build and run this locally you need to install[Node.js][6],[Gulp][7] and[Bower][8].
-After installing the required packages run the following commands to make the project run on your[localhost][9]:
+To build and run this locally you need to install [Node.js][6], [Gulp][7] and [Bower][8].
+After installing the required packages run the following commands to make the project run on your [localhost][9]:
 
     npm i
     bower install
@@ -59,4 +59,4 @@ I would not recommend my approach or coding style for a final product!
 [7]: http://gulpjs.com
 [8]: https://bower.io
 [9]: http://localhost:9000
-[10]: https://initial.zorko.co
+[10]: http://initial.zorko.co
